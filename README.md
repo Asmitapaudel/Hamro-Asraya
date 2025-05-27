@@ -78,7 +78,7 @@ In Nepal, finding student accommodation can be tricky, with limited options and 
 
 ## 💬 **Contributing**
 
-We welcome contributions! If you'd like to improve the project or add features, feel free to open an issue or submit a pull request. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+We welcome contributions! If you'd like to improve the project or add features, feel free to open an issue or submit a pull request. Please refer to our [Contribution.md](Contribution.md) for more information.
 
 ---
 
